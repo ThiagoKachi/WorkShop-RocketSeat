@@ -4,7 +4,7 @@ ___
 
 
 <p align="center">
-  <img src="https://readme-maker.herokuapp.com/uploads/646ec90e22527b29-logo.png" width="300" heigth="300">
+  <img src="https://i.postimg.cc/3wyGmG02/logo.png" width="300" heigth="300">
 </p>
 
 
