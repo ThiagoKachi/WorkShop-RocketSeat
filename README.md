@@ -19,14 +19,14 @@ ___
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#seedling-requisitos-mínimos">Requisitos</a>&nbsp;|&nbsp;
+  <a href="#computer-testes">Testes</a>&nbsp;|&nbsp;
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#licença">Licença</a>
 </h3>
 
 ___
 
-<img src="https://readme-maker.herokuapp.com/uploads/2211417f3bf9f3bd-Untitled.gif" width="1200">
+<img src="https://i.postimg.cc/C5wdPn5P/Untitled.gif" width="800">
 
 ## :information_source: Sobre
 
@@ -36,7 +36,7 @@ Projeto 'Casa Criativa', realizado no WorkshopDev da Rocketseat.
 
 Tem como objetivo catalogar ideias, brincadeiras, jogos, filmes, livros, cursos, dicas e tudo que for necessário para tornar esse momento de pandemia mais interessante.
 
-## 💻 Testes
+## :computer: Testes
   Para rodar os testes, utilize o comando abaixo:
   
 ```shell
